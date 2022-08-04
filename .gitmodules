@@ -1,3 +1,6 @@
 [submodule "Docker_Magento2"]
 	path = Docker_Magento2
 	url = git@github.com:VitaminasG/Docker_Magento2.git
+[submodule "Prestashop-docker"]
+	path = Prestashop-docker
+	url = git@github.com:VitaminasG/Prestashop-docker.git
