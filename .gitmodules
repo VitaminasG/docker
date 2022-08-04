@@ -4,3 +4,6 @@
 [submodule "Prestashop-docker"]
 	path = Prestashop-docker
 	url = git@github.com:VitaminasG/Prestashop-docker.git
+[submodule "Symfony4-docker"]
+	path = Symfony4-docker
+	url = git@github.com:VitaminasG/Symfony4-docker.git
