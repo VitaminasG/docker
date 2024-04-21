@@ -7,3 +7,6 @@
 [submodule "Symfony4-docker"]
 	path = Symfony4-docker
 	url = git@github.com:VitaminasG/Symfony4-docker.git
+[submodule "Slim4-docker"]
+	path = Slim4-docker
+	url = https://github.com/VitaminasG/Slim4-docker
